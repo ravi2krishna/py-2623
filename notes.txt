@@ -1,0 +1,160 @@
+Class - 1
+==========
+
+    -> Python Course
+
+        -> Full Stack Development 
+
+            -> HTML / CSS / JS / SQL / Django / FAST API etc 
+
+            -> Build Web Applications 
+
+        
+        -> Data Analytics / Data Engineering / Data Science 
+
+            -> Numpy / Pandas / PySpark / PyTorch etc 
+
+            -> Build Visualizations & Reports / Build Data Pipelines / Build Model 
+
+
+        -> Cloud Computing / DevOps / Automation Testing 
+
+            -> OS Modules / sys Modules / Boto3 etc 
+
+            -> Build Automation Scripts 
+        
+
+    -> Core Python, Which is Common To All The Above Courses 
+
+
+    -> Python 
+
+        -> Python is a high-level, general-purpose programming language. 
+        It emphasizes code readability, simplicity, and ease-of-writing 
+        with the use of significant indentation, "plain English" naming, 
+        an extensive ("batteries-included") standard library, and garbage collection.
+
+
+    -> Python is a high-level programming language 
+
+        
+        -> High Level Language 
+
+            -> High Level Language Means "Human Understandable" Language (English)
+
+            -> Python Code Looks Like English 
+
+                num1 = 1.5
+                num2 = 2.5
+                sum = num1 + num2 
+
+
+        -> Low Level Language 
+
+            -> Low Level Language Means "Machine Understandable" Language (Binary)
+            (Binary Bits i.e 0101010100101010)
+
+            -> 01110000 01111001 01110100 01101000 01101111 01101110 : python
+
+
+    
+    -> Python is a general-purpose programming language
+
+        -> If We Can Build "Multiple Types" Of Applications
+
+            -> Desktop Applications ? -> Yes 
+
+            -> Web Applications ? -> Yes 
+
+            -> API's ? -> Yes 
+
+            -> Automation Scripts ? -> Yes 
+
+
+    -> Domain Specific programming Language
+
+        -> If We Can Build Only "Specific Type" Of Applications
+
+        -> SQL (Structured Quey Language) is a domain-specific language used to 
+        manage data, especially in a relational database management system (RDBMS)
+
+            -> Desktop Applications ? -> No 
+
+            -> Web Applications ? -> No 
+
+            -> API's ? -> No 
+
+            -> Automation Scripts ? -> No  
+
+
+        -> Python emphasizes code readability, simplicity, and ease-of-writing 
+        with the use of significant indentation, "plain English" naming, 
+
+            -> code readability, simplicity, and ease-of-writing 
+
+            Java Code
+            ---------
+
+            class Main {
+
+                public static void main(String[] args) {
+                    
+                    int first = 10;
+                    int second = 20;
+
+                    // add two numbers
+                    int sum = first + second;
+                    System.out.println(first + " + " + second + " = "  + sum);
+                }
+            }
+
+            class
+            public
+            static
+            void
+            main
+            []
+            {}
+            ()
+            ;
+            etc 
+
+
+            Python Code
+            -----------
+
+                num1 = 1.5
+                num2 = 2.5
+                sum = num1 + num2
+                print(sum)
+
+        
+        -> Indentation 
+
+            -> Indentation Refers To Code Structuring 
+
+            -> In Python We Use "Spaces" For Indentation 
+
+            -> Python Author - Guido Van Rossum began working on Python in the late 1980s 
+            as a successor to the ABC programming language.
+
+            -> ABC Language: https://cdn-blog.adafruit.com/uploads/2020/01/adafruit_2019_3368.jpg
+
+
+
+        -> Python is an extensive ("batteries-included") standard library, 
+        and garbage collection.
+
+            -> Extensive ("batteries-included") standard library
+
+                -> Python standard library i.e Python Installation 
+                Provides 200+ Modules 
+
+        
+        -> Python Is Garbage Collected 
+
+            -> Garbage Collected Means "Automatically Remove Unused Data"
+
+            -> Python Automatically Cleans Up Unused Memory i.e More Memory Efficient 
+
+            
