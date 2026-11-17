@@ -158,3 +158,82 @@ Class - 1
             -> Python Automatically Cleans Up Unused Memory i.e More Memory Efficient 
 
             
+Class - 2
+==========
+
+    -> Programming Paradigms 
+
+        -> A programming paradigm is a relatively high-level way to conceptualize and 
+        structure the implementation of a computer program.
+
+        -> Problem: How To Reach Institute ? 
+
+            -> Solution 1: I'll Come By Walk 
+            -> Solution 2: I'll Come By Bike 
+            -> Solution 3: I'll Come By Car 
+
+        -> We Have Two Popular Types 
+
+            -> Imperative Approach 
+
+                -> Focus Is On "HOW TO DO"
+
+                -> Object Oriented Approach 
+
+            -> Declarative Approach 
+
+                -> Focus Is On "WHAT TO DO"
+
+                -> Functional Oriented Approach 
+        
+        -> NOTE: Python Uses Multi Paradigm Approach i.e 
+        We Can Use Imperative & Declarative Approach
+
+            -> https://miro.medium.com/v2/resize:fit:1200/1*Jf5GJS1XtRsHWbZldcvOiQ.png
+
+
+        -> List Of Popular Applications Where Python is used 
+
+            ->  https://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites  
+    
+
+    -> Setup Python Environment 
+
+        -> Install Python Interpreter 
+
+            -> In Windows / Linux / MacOS 
+
+                -> https://www.python.org/ 
+
+        
+        -> IDE: Integrated Development Environment
+
+            -> Tool For Writing Code 
+            (Syntax Highlight, Auto Code Completion, Install Plugins etc)
+
+            -> Visual Studio Code (VS Code)
+
+    
+    -> Where To Write Code ?? 
+
+        -> Command Line Mode (Not Recommended)
+
+            -> We write code in Command Prompt 
+
+            -> Temporary, Once we close the session all the code is reset 
+
+            -> To Enter into Command Line Mode  
+
+                -> Open Command Prompt then type python 
+
+        
+        -> Script Mode (Recommended)
+
+           -> We write code in Files Using IDE's i.e Visual Studio Code (VS Code)
+
+           -> Permanent, Stored on Disk 
+
+            -> NOTE: Install Python Plugin in Visual Studio Code (VS Code)
+
+
+        
