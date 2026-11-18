@@ -236,4 +236,117 @@ Class - 2
             -> NOTE: Install Python Plugin in Visual Studio Code (VS Code)
 
 
+Class - 3
+==========
+
+    -> How To Write Code ?? 
+
+        -> Any Language Has Rules 
+
+        -> Likewise Any Programming Language Also Has Rules i.e Syntax 
+
+            -> print(a times b) Syntax Error: Invalid Syntax 
+
+            -> print(a * b) 
+
+        -> Comparing Programming Language With English Language 
+
+            -> i taking class now today at 7:00 PM now (incorrect)
+
+            -> i'm taking class today at 7:00 PM (correct)
+
+
+        -> Learn English (Language)
+
+            -> English Has 26 Alphabets (abcd........z)
+
+            -> Using These Alphabets, We Learn How To Form Words and 
+            Complex Sentences With Proper Grammar Over The Time 
+
         
+        -> Learn Python (Programming Language)
+
+            -> Python Has 35 "Keywords" (Which Are Equivalent To English Alphabets)
+
+            -> Using These 35 Keywords, we learn to form Statements Using Syntax 
+
+            -> List Of Python Keywords
+
+                -> https://docs.python.org/3/reference/lexical_analysis.html#keywords
+
+                    False      await      else       import     pass
+                    None       break      except     in         raise
+                    True       class      finally    is         return
+                    and        continue   for        lambda     try
+                    as         def        from       nonlocal   while
+                    assert     del        global     not        with
+                    async      elif       if         or         yield
+
+                -> NOTE: All the Above keywords, hold special meaning to python interpreter
+
+    -> Python Rules / Syntax 
+    
+        -> Any Python File We Write, it should have an extension as .py 
+
+            -> app.py or demo.py 
+
+        -> Python Ignores Any Line That Starts With # 
+
+            -> # Means Comment 
+
+        -> In Python We Have Functions, Which Does Some Task 
+
+            -> Any Function Has function_name()
+
+            -> We Have print() - Prints On standard output 
+
+        -> In Python We Have strings to represent sequence of characters 
+
+            -> Strings Should Be Enclosed in '' or " " 
+
+    
+    -> Identifiers 
+
+        -> Identifier 
+
+            -> An Identifier Is "Name" To Uniquely Identify, A piece of data in code 
+
+                -> Variables 
+
+                -> Strings 
+
+                -> Classes 
+
+                -> Functions 
+
+                -> Tuples 
+
+                -> Methods 
+
+                -> Objects 
+
+                -> etc 
+
+
+        -> NOTE: Just Like PAN Number Has Rules (10 characters with alpha numeric)
+
+        -> Identifier Rules 
+
+            -> Can Contain 
+
+                -> Alphabets (a-z A-Z)
+                -> Digits (0-9)
+                -> Special Symbols (Only _ (underscore) is allowed)
+
+            -> Must Start With 
+
+                -> An Alphabet or _ (underscore)
+
+            -> Use _ for replacing spaces 
+
+        -> NOTE: Always Use Proper Way Of Naming Identifiers 
+
+        -> NOTE: Always Use UPPER CASE for Static Data (Fixed / Doesn't Change)
+
+        
+
