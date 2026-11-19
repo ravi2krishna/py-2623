@@ -349,4 +349,76 @@ Class - 3
         -> NOTE: Always Use UPPER CASE for Static Data (Fixed / Doesn't Change)
 
         
+Class - 4
+==========
 
+    -> Variables 
+
+        -> Variable is a named storage location in computers memory (RAM)
+        that holds some value or data.
+
+        -> Syntax 
+
+            -> variable_name = value 
+
+                -> variable_name should follow Identifier rules 
+                -> = Assignment Operator 
+                -> value is data you want to store 
+
+        -> Variables Allows You To 
+
+            -> Assign Data (Store Data)
+            -> Retrieve Data (Get Data)
+            -> Manipulate Data (Change Data)
+
+
+    -> NOTE: To Know the Data Type of Variable 
+
+        -> we use type() function 
+
+
+    -> Combine Variables with Custom Statements 
+
+        -> Concatenation: Joining Strings Using + Operator
+
+         -> NOTE: When Combining Strings With Other Data Types 
+        Like int, float, boolean etc use , Operator 
+
+
+        -> NOTE: To Know the Memory Address Of Variable
+
+            -> we use id() function 
+
+        
+        -> Memory Model In Python 
+
+            -> if a value is already present in the memory,
+            python will not create a new memory block again.
+
+
+        -> Manipulate Data (Change Data)
+
+            -> Then we need to use "Operators"
+
+
+    -> Operators
+
+        -> Operators are special "Symbols" and "Keywords", which Performs 
+        Operations on Variables and their Values.
+
+        -> There are different types of operators, to deal with different types of data 
+
+        -> Arithmetic Operators 
+
+            -> To Perform Mathematical Calculations 
+
+                -> + - * / % 
+
+            -> // - floor division (same as division, but rounds off result)
+            -> ** - Exponentiation (same as Calculating powers)
+
+        -> TASK: https://www.cardekho.com/mahindra/thar
+
+            -> Calculate EMI 
+
+                -> https://www.moneyseth.com/media/custom_blog/2021/05/05/emi-calculator_l9Xlp4V.png
