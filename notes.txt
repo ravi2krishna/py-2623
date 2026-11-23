@@ -422,3 +422,87 @@ Class - 4
             -> Calculate EMI 
 
                 -> https://www.moneyseth.com/media/custom_blog/2021/05/05/emi-calculator_l9Xlp4V.png
+
+
+Class - 5
+==========
+
+        -> Compound Assignment Operators 
+
+            -> Assignment Operator is = (Used to Assign Value To Variable)
+
+            -> Compound Assignment Operators, Combine 
+            Arithmetic Operators with Assignment Operator for 
+            Short Hand Code (Concise Code)
+
+                -> x = 10
+                -> x = x * 5 (long form)
+
+                -> x *= 5 (short form)
+
+                -> x = x * 5 and x *= 5 (Both Does Same Operation)
+
+            -> NOTE: In Other Languages, we have Increment & Decrement Operators 
+
+                -> Increment Operator (++) increases the value
+
+                -> Decrement Operators (--) decreases the value
+
+                -> Above Operations are not supported in python
+
+        
+        -> Comparison Operators
+
+            -> Comparison Operators are used for Comparing Values
+            and result is in boolean type (True/False)
+
+            -> NOTE: We Use Them In Conditions / Conditional Statements 
+
+                -> ==, !=, >, <, >=, <= 
+
+
+        -> Logical Operators 
+
+            -> Logical Operators are used for Performing Logical Operations
+
+            -> Used to check multiple conditions and result is in boolean type (True/False)
+
+            -> and: if both conditions are True, then only result is True, otherwise False 
+            -> or: if one of the conditions is True, then result is True, otherwise False 
+            -> not: negates the result, if true then false and vice versa 
+
+                            X       Y       X and Y    X or Y    not X    not Y
+                            T       T           T         T         F       F
+                            T       F           F         T         F       T
+                            F       T           F         T         T       F
+                            F       F           F         F         T       T 
+
+        
+        -> Membership Operators 
+
+            -> Used To Check If An Given Object Is In Sequence 
+
+                -> in: return True, if given object is in sequence, Otherwise False
+
+                -> not in: return True, if given object is not in sequence
+
+        
+        -> Identity Operators 
+
+            -> Used to check if objects are same 
+
+                -> is: return True, if objects are same  
+                
+                -> is not: return True, if objects are not same  
+
+                -> is (Identity operator): Compares the identity (memory address) of two objects. 
+                It returns True only if both variables refer to the exact same object in memory. 
+
+        
+        -> Bitwise Operators 
+
+            -> Used in Low Level Programming (1010101011)
+
+                -> & - if both bits are 1, then result is 1, Otherwise 0 
+                -> | - if one of the bits is 1, then result is 1 
+                -> etc 
