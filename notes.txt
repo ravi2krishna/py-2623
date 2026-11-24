@@ -632,8 +632,75 @@ Class - 6
         -> NOTE: To Work With Control Structures, We Need "Indentation" Knowledge
 
 
+Class - 7
+==========
+
+    -> Indentation
+
+        -> Indentation in Python is a  Mandatory Aspect of it's Syntax,
+        Used to define the "Structure" and "Hierarchy" in "Code Blocks"
+
+            -> Statement: Single Line Of Code 
+
+            -> Block: Multiple Lines Of Code 
+
+        -> Unlike Other Programming Language that use Curly Braces {}
+        Python entirely relies on Spaces For Indentation 
+
+        -> NOTE: Understanding Indentation Means 
+
+            -> When To Use Space 
+
+            -> When Not To Use Space 
+
+            -> How Many Spaces To Use 
+
+        -> NOTE: Python Allows for any "Consistent Number Of Spaces"  
+        the widely accepted and Recommended standard is 4 Spaces (tab)
+
+
+
+    -> Conditional Structures (Decision Making Statements)
+
+        -> Used To Run "Block Of Code" Based On Condition Result 
+
+        -> if 
+
+            -> Runs Block Of Code, If Condition Is True 
+
+            -> Syntax: 
+
+                if condition:
+                    block of code 
+        
+
+        -> if else 
+
+            -> runs a block of code, if the condition is True 
+            runs another block of code, if the condition is False 
+
+                if condition True:
+                    block of code 
+                else:
+                    run another block of code 
 
         
+        -> NOTE: To Read Input From User, Python Provides input() function 
+        and Stores The Given Input As A String Value 
+
+        
+        -> Interpolation 
+
+            -> Interpolation technique replaces, place holders with actual values dynamically
+
+            -> Using "f-strings" (Formatted String Literals)
+
+                -> We use f with print() and {} as place holders
+
+                -> https://printitnice.com/wp-content/uploads/2024/06/stkr22d023-01.webp
+
+
+
 
 
 
