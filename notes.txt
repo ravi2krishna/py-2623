@@ -699,9 +699,93 @@ Class - 7
 
                 -> https://printitnice.com/wp-content/uploads/2024/06/stkr22d023-01.webp
 
+Class - 8
+==========
 
+    -> Conditional Expression 
 
+            -> Conditional Expression provides a concise way(short hand code)
+            to write if else condition in one single line 
 
+            -> NOTE: It evaluates a condition and returns one of two values 
+            based on whether the condition is True or False.
 
-
+            -> Syntax 
                 
+                value_if_true if condition else value_if_false 
+
+
+    -> elif ladder 
+
+        -> elif is keyword that stands for else if 
+
+        -> It is used in conditional statements to check "multiple conditions"
+
+            -> Syntax
+
+                if condition:
+                    statements
+                elif condition:
+                    statements
+                elif condition:
+                    statements
+                elif condition:
+                    statements
+                elif condition:
+                    statements
+                else:
+                    statements
+
+
+    -> match case 
+
+        -> The match/case statement (introduced in Python 3.10) is used for 
+        structural "pattern matching" 
+
+        -> In other languages we call it as switch case
+
+        -> Syntax 
+
+            match expression:
+                case pattern_1:
+                    # code block 1    
+                case pattern_2:
+                    # code block 2
+                case pattern_3:
+                    # code block 3
+                .
+                .
+                .
+                case _:
+                    # default code block
+
+        -> NOTE: Use match case when:
+
+            -> You are comparing one variable, Against fixed constant values
+                
+            Like:
+                Menu options
+                Days
+                Status codes
+                Roles
+
+        -> NOTE: Use elif when, you are checking conditions 
+
+            Like: 
+                Marks >= 90
+                Age >= 18
+                Salary >= 50000
+
+    
+    -> Nested Conditionals 
+
+        -> Conditionals Inside Conditionals
+
+        -> Nested Conditionals allows the program to evaluate multiple criteria sequentially, 
+        where the inner condition is only checked, if the outer condition is true. 
+
+    
+    
+    -> NOTE: Work On "conditionals_tasks.md" file which you can access from GitHub Link 
+
+        -> https://github.com/ravi2krishna/py-2623/tree/main/05_control_stmts
