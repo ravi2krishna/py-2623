@@ -864,3 +864,29 @@ Class - 9
                 -> step is increment (default step is 1)
 
 
+Class - 10
+==========
+
+    -> Nested Loops 
+
+        -> Loops Inside Loops, Used For Multiple Layers Of Iteration 
+
+    
+    -> Branching Structures (Jump Statements)
+
+        -> Used within loops, these statements also control the flow of execution, 
+        
+        -> allowing you to exit a loop early
+
+        -> skip the Iteration 
+
+            -> break: helps you exit loops
+
+            -> continue: helps you skip current Iteration 
+
+            -> pass: acts as placeholder, does nothing 
+
+    
+    -> NOTE: Work On "loops_tasks.md" file which you can access from GitHub Link 
+
+            -> https://github.com/ravi2krishna/py-2623/tree/main/05_control_stmts
